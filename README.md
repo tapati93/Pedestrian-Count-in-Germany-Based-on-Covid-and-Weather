@@ -7,12 +7,12 @@
 
 3.For the analysis of these factors we have used APIs provided by Hystreet.
 
-4. High Street Task Force is an alliance of marketing experts that provide data on pedestrian counts in different locations of Germany.
+4.High Street Task Force is an alliance of marketing experts that provide data on pedestrian counts in different locations of Germany.
 
 ## Business Queries
-To find the impact of Corona on the different city centers.
+1.To find the impact of Corona on the different city centers.
 
-To help our end users who are the retailers and stakeholders to invest at the right place and right time to gain profit.
+2.To help our end users who are the retailers and stakeholders to invest at the right place and right time to gain profit.
 
 
 ## Pipeline
