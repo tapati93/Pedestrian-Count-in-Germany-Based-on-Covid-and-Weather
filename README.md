@@ -24,4 +24,13 @@
 
 2. Frequent disruption in connection from SQL Cloud server while connecting it to tableau live data .
 
-3. Generating Latitude & Longitude as these data was unavailable in API and joining this static data with streaming data. 
+3. Generating Latitude & Longitude as these data was unavailable in API and joining this static data with streaming data.
+
+
+## Some visualization
+<img src="P1.png">
+
+<img src="P2.png">
+
+<img src="P3.png">
+
