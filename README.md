@@ -28,9 +28,10 @@
 
 
 ## Some visualization
-<img src="P1.png">
+<img src="P1.jpg">
 
-<img src="P2.png">
+<img src="P2.jpg">
 
-<img src="P3.png">
+<img src="P3.jpg">
 
+<img src="P4.jpg">
