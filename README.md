@@ -28,9 +28,9 @@
 
 
 ## Some visualization
-<img src="P1.jpg">
-
 <img src="P2.jpg">
+
+<img src="P1.jpg">
 
 <img src="P3.jpg">
 
