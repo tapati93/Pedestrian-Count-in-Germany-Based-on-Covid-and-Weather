@@ -15,5 +15,14 @@ To find the impact of Corona on the different city centers.
 To help our end users who are the retailers and stakeholders to invest at the right place and right time to gain profit.
 
 
-
+## Pipeline
 ![image](https://github.com/tapati93/Pedestrian-Count-in-Germany-Based-on-Covid-and-Weather/assets/85105403/605b5b05-4b7c-4556-80e2-4ec5df55f22c)
+
+## Conclusion
+
+1.Getting the streaming data from multiple data source
+
+2.Frequent disruption in connection from SQL Cloud server while connecting it to tableau live data .
+
+3.Generating Latitude & Longitude as these data was unavailable in API and joining this static data with streaming data. 
+![image](https://github.com/tapati93/Pedestrian-Count-in-Germany-Based-on-Covid-and-Weather/assets/85105403/1c58dfcf-7462-4bb6-a7cb-33e322905594)
